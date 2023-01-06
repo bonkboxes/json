@@ -26,7 +26,7 @@
     ],
     "files": [
       {
-        "uri": "https://bafybeidrvb4gdrx2yjaftq2sg4ssacpjt4gxxg7o43hjkipraylvmhs2vi.ipfs.nftstorage.link/Bonk_unclaimed.png",
+        "uri": "https://raw.githubusercontent.com/holydiamonds/nftimages/main/box_logo.gif",
         "file_type": "image/gif"
       }
     ]
@@ -35,5 +35,5 @@
     "name": "BONKBOX",
     "family": "WhiteList"
   },
-  "image": "https://bafybeidrvb4gdrx2yjaftq2sg4ssacpjt4gxxg7o43hjkipraylvmhs2vi.ipfs.nftstorage.link/Bonk_unclaimed.png"
+  "image": "https://raw.githubusercontent.com/holydiamonds/nftimages/main/box_logo.gif"
 }
