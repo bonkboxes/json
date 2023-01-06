@@ -1,0 +1,39 @@
+{
+  "name": "Bonk Boxes WL",
+  "symbol": "BONKBOX",
+  "description": "Bonk Boxes is a mystery boxes project launched on solana, but minted in $BONK! Mystery Boxes will be able to be opened 1-2 days post-mint and boxes will include a variety of items.\nCongratulations. Your wallet address has earned WhiteList rights. Mint for free now before your mint expires.👇",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://bonkboxes.web.app/",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Floor",
+      "value": "9.7 SOL"
+    },
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "F3tLrYFhGLrkz51mvf9aAGnixvG2C3BTsztYvGPLX1jA",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://bafybeidrvb4gdrx2yjaftq2sg4ssacpjt4gxxg7o43hjkipraylvmhs2vi.ipfs.nftstorage.link/Bonk_unclaimed.png",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "BONKBOX",
+    "family": "WhiteList"
+  },
+  "image": "https://bafybeidrvb4gdrx2yjaftq2sg4ssacpjt4gxxg7o43hjkipraylvmhs2vi.ipfs.nftstorage.link/Bonk_unclaimed.png"
+}
